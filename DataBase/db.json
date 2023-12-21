@@ -1,24 +1,54 @@
 {
-    "items":[
-        {
-            "id":1,
-            "content":"I play cricket",
-            "checked":false
-        },
-        {
-            "id":2,
-            "content":"I watch cricket",
-            "checked":false 
-        },
-        {
-            "id":3,
-            "content":"I went to college",
-            "checked":false
-        },
-        {
-            "id":4,
-            "content":"I ate well",
-            "checked":false
-        }
-    ]
+  "items": [
+    {
+      "id": 1,
+      "content": "HTML",
+      "checked": false
+    },
+    {
+      "id": 2,
+      "content": "CSS",
+      "checked": false
+    },
+    {
+      "id": 3,
+      "content": "Bootstrap",
+      "checked": false
+    },
+    {
+      "id": 4,
+      "content": "JavaScript",
+      "checked": false
+    },
+    {
+      "id": 5,
+      "content": "React.js",
+      "checked": false
+    },
+    {
+      "id": 6,
+      "content": "Node.js",
+      "checked": false
+    },
+    {
+      "id": 7,
+      "content": "Mongodb",
+      "checked": false
+    },
+    {
+      "id": 8,
+      "content": "Postman API",
+      "checked": false
+    },
+    {
+      "id": 9,
+      "content": "Git",
+      "checked": false
+    },
+    {
+      "id": 10,
+      "content": "GitHub",
+      "checked": false
+    }
+  ]
 }
