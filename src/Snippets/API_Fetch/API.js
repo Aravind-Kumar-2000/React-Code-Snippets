@@ -4,7 +4,7 @@ import { FaTrashAlt } from "react-icons/fa";
 
 function API() {
 
-  const [items, setItems] = useState("");
+  const [items, setItems] = useState([]);
 
   function handleChange(id) {
     const newItems = items.map((item) =>
