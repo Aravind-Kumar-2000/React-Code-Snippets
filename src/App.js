@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
       <div>
-        <h3>React Code Snippets</h3>
+        <h3>React Code Snippet</h3>
         <ul>
           <li>
             <Link to={"/listandkeys"}>List and Keys</Link>
